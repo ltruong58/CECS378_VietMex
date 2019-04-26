@@ -1,4 +1,4 @@
-#Lab Contribution
+# Lab Contribution
 ## Ricardo Ramos
 * Created the EncryptAll.py file which RSAEncrypts every file in a directory.
 ## Long Truong
